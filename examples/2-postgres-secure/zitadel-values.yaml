@@ -1,7 +1,7 @@
 zitadel:
   masterkey: x123456789012345678901234567891y
   configmapConfig:
-    ExternalSecure: false
+    ExternalSecure: true
     ExternalDomain: ec2-51-20-68-90.eu-north-1.compute.amazonaws.com
     ExternalPort: 8080
     TLS:
